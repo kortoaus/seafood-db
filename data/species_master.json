@@ -1,0 +1,4847 @@
+[
+  {
+    "id": "greenlip_abalone",
+    "nameEN": "Greenlip Abalone",
+    "nameKR": null,
+    "scientificName": "Haliotis laevigata",
+    "family": "Haliotidae",
+    "category": "Abalones",
+    "searchTags": [
+      "greenlip",
+      "abalone",
+      "muttonfish",
+      "전복",
+      "녹순전복",
+      "그린립",
+      "아발로니",
+      "아와비",
+      "あわび",
+      "鮑魚"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "blacklip_abalone"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "blacklip_abalone",
+    "nameEN": "Blacklip Abalone",
+    "nameKR": null,
+    "scientificName": "Haliotis rubra",
+    "family": "Haliotidae",
+    "category": "Abalones",
+    "searchTags": [
+      "blacklip",
+      "abalone",
+      "muttonfish",
+      "전복",
+      "흑순전복",
+      "블랙립",
+      "아발로니",
+      "아와비",
+      "あわび",
+      "鮑魚"
+    ],
+    "sources": [
+      "sfm",
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "greenlip_abalone"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "abalone",
+    "nameEN": "Abalone",
+    "nameKR": null,
+    "scientificName": "Haliotis spp.",
+    "family": "Haliotidae",
+    "category": "Abalones",
+    "searchTags": [
+      "abalone",
+      "전복",
+      "활전복",
+      "참전복",
+      "완도전복",
+      "아발로니",
+      "아와비",
+      "あわび",
+      "鮑魚",
+      "찐전복",
+      "순살전복"
+    ],
+    "sources": [
+      "emart",
+      "tpirates",
+      "umall"
+    ],
+    "relatedSpecies": [
+      "greenlip_abalone",
+      "blacklip_abalone"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "swordfish",
+    "nameEN": "Swordfish",
+    "nameKR": "황새치",
+    "scientificName": "Xiphias gladius",
+    "family": "Xiphiidae",
+    "category": "Billfish",
+    "searchTags": [
+      "swordfish",
+      "broadbill",
+      "황새치",
+      "메카지키",
+      "メカジキ",
+      "카지키",
+      "黄旗魚"
+    ],
+    "sources": [
+      "sfm",
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "striped_marlin"
+    ],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "striped_marlin",
+    "nameEN": "Striped Marlin",
+    "nameKR": null,
+    "scientificName": "Tetrapturus audax",
+    "family": "Istiophoridae",
+    "category": "Billfish",
+    "searchTags": [
+      "striped marlin",
+      "marlin",
+      "makajiki",
+      "줄무늬새치",
+      "청새치",
+      "마카지키",
+      "マカジキ"
+    ],
+    "sources": [
+      "sfm",
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "swordfish",
+      "black_marlin",
+      "blue_marlin"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "black_marlin",
+    "nameEN": "Black Marlin",
+    "nameKR": null,
+    "scientificName": "Makaira indica",
+    "family": "Istiophoridae",
+    "category": "Billfish",
+    "searchTags": [
+      "black marlin",
+      "marlin",
+      "흑새치",
+      "쿠로카지키",
+      "クロカジキ",
+      "녹새치"
+    ],
+    "sources": [
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "striped_marlin",
+      "blue_marlin",
+      "swordfish"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "blue_marlin",
+    "nameEN": "Blue Marlin",
+    "nameKR": "녹새치",
+    "scientificName": "Makaira mazara",
+    "family": "Istiophoridae",
+    "category": "Billfish",
+    "searchTags": [
+      "blue marlin",
+      "marlin",
+      "청새치",
+      "쿠로카와카지키",
+      "녹새치"
+    ],
+    "sources": [
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "striped_marlin",
+      "black_marlin",
+      "swordfish"
+    ],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "snapper",
+    "nameEN": "Snapper",
+    "nameKR": null,
+    "scientificName": "Chrysophrys auratus",
+    "family": "Sparidae",
+    "category": "Breams",
+    "searchTags": [
+      "snapper",
+      "pink snapper",
+      "red bream",
+      "schnapper",
+      "squire",
+      "cockney",
+      "pinkies",
+      "도미",
+      "참돔",
+      "鯛",
+      "たい",
+      "타이",
+      "스냅퍼"
+    ],
+    "sources": [
+      "sfm",
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "yellowfin_bream",
+      "black_bream",
+      "tarwhine",
+      "pikey_bream",
+      "frypan_bream"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "pikey_bream",
+    "nameEN": "Pikey Bream",
+    "nameKR": null,
+    "scientificName": "Acanthopagrus berda",
+    "family": "Sparidae",
+    "category": "Breams",
+    "searchTags": [
+      "pikey bream",
+      "bream",
+      "파이키브림",
+      "도미",
+      "감성돔",
+      "새눈치"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "snapper",
+      "yellowfin_bream",
+      "black_bream"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "frypan_bream",
+    "nameEN": "Frypan Bream",
+    "nameKR": null,
+    "scientificName": "Chrysophrys auratus",
+    "family": "Sparidae",
+    "category": "Breams",
+    "searchTags": [
+      "frypan bream",
+      "bream",
+      "프라이팬브림"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "snapper",
+      "yellowfin_bream",
+      "black_bream"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "black_bream",
+    "nameEN": "Black Bream",
+    "nameKR": null,
+    "scientificName": "Acanthopagrus butcheri",
+    "family": "Sparidae",
+    "category": "Breams",
+    "searchTags": [
+      "black bream",
+      "southern bream",
+      "blue-nose bream",
+      "감성돔",
+      "黒鯛",
+      "쿠로다이",
+      "クロダイ",
+      "치누",
+      "チヌ",
+      "새눈치"
+    ],
+    "sources": [
+      "sfm",
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "snapper",
+      "yellowfin_bream",
+      "tarwhine"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "yellowfin_bream",
+    "nameEN": "Yellowfin Bream",
+    "nameKR": null,
+    "scientificName": "Acanthopagrus australis",
+    "family": "Sparidae",
+    "category": "Breams",
+    "searchTags": [
+      "yellowfin bream",
+      "bream",
+      "브림",
+      "도미",
+      "감성돔",
+      "새눈치"
+    ],
+    "sources": [
+      "sfm",
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "snapper",
+      "black_bream",
+      "tarwhine"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "tarwhine",
+    "nameEN": "Tarwhine",
+    "nameKR": "청돔",
+    "scientificName": "Rhabdosargus sarba",
+    "family": "Sparidae",
+    "category": "Breams",
+    "searchTags": [
+      "tarwhine",
+      "타와인",
+      "도미류",
+      "청돔"
+    ],
+    "sources": [
+      "sfm",
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "snapper",
+      "yellowfin_bream",
+      "black_bream"
+    ],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "balmain_bug",
+    "nameEN": "Balmain Bug",
+    "nameKR": null,
+    "scientificName": "Ibacus peronii",
+    "family": "Scyllaridae",
+    "category": "Bugs",
+    "searchTags": [
+      "balmain bug",
+      "bug",
+      "slipper lobster",
+      "shovel-nose lobster",
+      "발메인버그",
+      "납작바닷가재",
+      "우치와에비",
+      "ウチワエビ"
+    ],
+    "sources": [
+      "sfm",
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "moreton_bay_bug"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "moreton_bay_bug",
+    "nameEN": "Moreton Bay Bug",
+    "nameKR": null,
+    "scientificName": "Thenus australiensis",
+    "family": "Scyllaridae",
+    "category": "Bugs",
+    "searchTags": [
+      "moreton bay bug",
+      "bay bug",
+      "bug",
+      "모튼베이버그",
+      "납작바닷가재"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "balmain_bug"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "pipi",
+    "nameEN": "Pipi",
+    "nameKR": null,
+    "scientificName": "Donax deltoides",
+    "family": "Donacidae",
+    "category": "Clams & Cockles",
+    "searchTags": [
+      "pipi",
+      "pipis",
+      "피피",
+      "조개"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "surf_clam",
+      "vongole"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "surf_clam",
+    "nameEN": "Surf Clam",
+    "nameKR": null,
+    "scientificName": "Dosinia caerulea",
+    "family": "Veneridae",
+    "category": "Clams & Cockles",
+    "searchTags": [
+      "surf clam",
+      "clam",
+      "서프클램",
+      "대합",
+      "조개"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "pipi",
+      "vongole"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "vongole",
+    "nameEN": "Vongole",
+    "nameKR": null,
+    "scientificName": "Katelysia spp.",
+    "family": "Veneridae",
+    "category": "Clams & Cockles",
+    "searchTags": [
+      "vongole",
+      "cockle",
+      "venus shell",
+      "바지락",
+      "봉골레",
+      "ボンゴレ",
+      "아사리",
+      "あさり",
+      "clam",
+      "조개",
+      "물바지락"
+    ],
+    "sources": [
+      "sfm",
+      "emart",
+      "tpirates"
+    ],
+    "relatedSpecies": [
+      "pipi",
+      "surf_clam"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "cockle",
+    "nameEN": "Cockle",
+    "nameKR": null,
+    "scientificName": "Anadara spp.",
+    "family": "Arcidae",
+    "category": "Clams & Cockles",
+    "searchTags": [
+      "cockle",
+      "sydney cockle",
+      "꼬막",
+      "새꼬막",
+      "피꼬막",
+      "피조개",
+      "blood cockle",
+      "blood clam",
+      "赤貝",
+      "아카가이",
+      "アカガイ"
+    ],
+    "sources": [
+      "dpi",
+      "emart",
+      "tpirates",
+      "kurly"
+    ],
+    "relatedSpecies": [
+      "vongole",
+      "pipi"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "blue_swimmer_crab",
+    "nameEN": "Blue Swimmer Crab",
+    "nameKR": null,
+    "scientificName": "Portunus pelagicus",
+    "family": "Portunidae",
+    "category": "Crabs",
+    "searchTags": [
+      "blue swimmer crab",
+      "sand crab",
+      "blue manna crab",
+      "swimmer",
+      "꽃게",
+      "블루스위머크랩",
+      "와타리가니",
+      "ワタリガニ",
+      "blue crab",
+      "암꽃게",
+      "수꽃게",
+      "절단꽃게",
+      "간장게장",
+      "양념게장"
+    ],
+    "sources": [
+      "sfm",
+      "dpi",
+      "emart",
+      "tpirates",
+      "umall"
+    ],
+    "relatedSpecies": [
+      "mud_crab",
+      "spanner_crab"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "spanner_crab",
+    "nameEN": "Spanner Crab",
+    "nameKR": null,
+    "scientificName": "Ranina ranina",
+    "family": "Raninidae",
+    "category": "Crabs",
+    "searchTags": [
+      "spanner crab",
+      "스패너크랩"
+    ],
+    "sources": [
+      "sfm",
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "blue_swimmer_crab",
+      "mud_crab"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "mud_crab",
+    "nameEN": "Mud Crab",
+    "nameKR": null,
+    "scientificName": "Scylla serrata",
+    "family": "Portunidae",
+    "category": "Crabs",
+    "searchTags": [
+      "mud crab",
+      "mudcrab",
+      "머드크랩",
+      "대게",
+      "도가니",
+      "mangrove crab"
+    ],
+    "sources": [
+      "sfm",
+      "dpi",
+      "umall"
+    ],
+    "relatedSpecies": [
+      "blue_swimmer_crab",
+      "spanner_crab"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "snow_crab",
+    "nameEN": "Snow Crab",
+    "nameKR": null,
+    "scientificName": "Chionoecetes opilio",
+    "family": "Oregoniidae",
+    "category": "Crabs",
+    "searchTags": [
+      "snow crab",
+      "대게",
+      "영덕대게",
+      "러시아대게",
+      "박달대게",
+      "즈와이가니",
+      "ズワイガニ",
+      "松葉蟹"
+    ],
+    "sources": [
+      "emart",
+      "tpirates"
+    ],
+    "relatedSpecies": [
+      "blue_swimmer_crab",
+      "red_snow_crab"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "red_snow_crab",
+    "nameEN": "Red Snow Crab",
+    "nameKR": null,
+    "scientificName": "Chionoecetes japonicus",
+    "family": "Oregoniidae",
+    "category": "Crabs",
+    "searchTags": [
+      "red snow crab",
+      "홍게",
+      "붉은대게",
+      "red crab",
+      "구룡포홍게"
+    ],
+    "sources": [
+      "emart",
+      "tpirates"
+    ],
+    "relatedSpecies": [
+      "snow_crab"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "king_dory",
+    "nameEN": "King Dory",
+    "nameKR": null,
+    "scientificName": "Cyttus traversi",
+    "family": "Cyttidae",
+    "category": "Dories",
+    "searchTags": [
+      "king dory",
+      "dory",
+      "킹도리",
+      "도리"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "john_dory",
+      "silver_dory",
+      "mirror_dory"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "john_dory",
+    "nameEN": "John Dory",
+    "nameKR": "달고기",
+    "scientificName": "Zeus faber",
+    "family": "Zeidae",
+    "category": "Dories",
+    "searchTags": [
+      "john dory",
+      "dory",
+      "존도리",
+      "마토다이",
+      "マトウダイ",
+      "的鯛",
+      "달고기"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "king_dory",
+      "silver_dory",
+      "mirror_dory"
+    ],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "silver_dory",
+    "nameEN": "Silver Dory",
+    "nameKR": null,
+    "scientificName": "Cyttus australis",
+    "family": "Cyttidae",
+    "category": "Dories",
+    "searchTags": [
+      "silver dory",
+      "dory",
+      "실버도리"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "king_dory",
+      "john_dory"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "mirror_dory",
+    "nameEN": "Mirror Dory",
+    "nameKR": null,
+    "scientificName": "Zenopsis nebulosus",
+    "family": "Zeidae",
+    "category": "Dories",
+    "searchTags": [
+      "mirror dory",
+      "dory",
+      "미러도리",
+      "민달고기"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "king_dory",
+      "john_dory"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "spikey_oreodory",
+    "nameEN": "Spikey Oreodory",
+    "nameKR": null,
+    "scientificName": "Neocyttus rhomboidalis",
+    "family": "Oreosomatidae",
+    "category": "Dories",
+    "searchTags": [
+      "spikey oreodory",
+      "oreodory",
+      "스파이키오레오도리"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "black_oreodory",
+      "smooth_oreodory"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "black_oreodory",
+    "nameEN": "Black Oreodory",
+    "nameKR": null,
+    "scientificName": "Allocyttus niger",
+    "family": "Oreosomatidae",
+    "category": "Dories",
+    "searchTags": [
+      "black oreodory",
+      "oreodory"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "spikey_oreodory",
+      "smooth_oreodory"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "smooth_oreodory",
+    "nameEN": "Smooth Oreodory",
+    "nameKR": null,
+    "scientificName": "Pseudocyttus maculatus",
+    "family": "Oreosomatidae",
+    "category": "Dories",
+    "searchTags": [
+      "smooth oreodory",
+      "oreodory"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "spikey_oreodory",
+      "black_oreodory"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "redspot_emperor",
+    "nameEN": "Redspot Emperor",
+    "nameKR": null,
+    "scientificName": "Lethrinus lentjan",
+    "family": "Lethrinidae",
+    "category": "Emperors",
+    "searchTags": [
+      "redspot emperor",
+      "emperor",
+      "황돔",
+      "레드스팟엠퍼러",
+      "갈돔",
+      "구갈돔",
+      "점갈돔",
+      "줄갈돔"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "longnose_emperor",
+      "redthroat_emperor",
+      "spangled_emperor"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "longnose_emperor",
+    "nameEN": "Longnose Emperor",
+    "nameKR": null,
+    "scientificName": "Lethrinus olivaceus",
+    "family": "Lethrinidae",
+    "category": "Emperors",
+    "searchTags": [
+      "longnose emperor",
+      "emperor",
+      "황돔",
+      "갈돔",
+      "구갈돔",
+      "점갈돔",
+      "줄갈돔"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "redspot_emperor",
+      "redthroat_emperor"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "grass_emperor",
+    "nameEN": "Grass Emperor",
+    "nameKR": null,
+    "scientificName": "Lethrinus laticaudis",
+    "family": "Lethrinidae",
+    "category": "Emperors",
+    "searchTags": [
+      "grass emperor",
+      "emperor",
+      "갈돔",
+      "구갈돔",
+      "점갈돔",
+      "줄갈돔"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "redspot_emperor",
+      "redthroat_emperor"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "spangled_emperor",
+    "nameEN": "Spangled Emperor",
+    "nameKR": "갈돔",
+    "scientificName": "Lethrinus nebulosus",
+    "family": "Lethrinidae",
+    "category": "Emperors",
+    "searchTags": [
+      "spangled emperor",
+      "emperor",
+      "갈돔"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "redspot_emperor",
+      "redthroat_emperor"
+    ],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "redthroat_emperor",
+    "nameEN": "Redthroat Emperor",
+    "nameKR": null,
+    "scientificName": "Lethrinus miniatus",
+    "family": "Lethrinidae",
+    "category": "Emperors",
+    "searchTags": [
+      "redthroat emperor",
+      "emperor",
+      "sweetlip",
+      "갈돔",
+      "구갈돔",
+      "점갈돔",
+      "줄갈돔"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "redspot_emperor",
+      "spangled_emperor"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "seabream",
+    "nameEN": "Seabream",
+    "nameKR": "까치돔",
+    "scientificName": "Gymnocranius griseus",
+    "family": "Lethrinidae",
+    "category": "Emperors",
+    "searchTags": [
+      "seabream",
+      "sea bream",
+      "바다도미",
+      "까치돔"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "snapper",
+      "redthroat_emperor"
+    ],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "bluespotted_flathead",
+    "nameEN": "Bluespotted Flathead",
+    "nameKR": null,
+    "scientificName": "Platycephalus caeruleopunctatus",
+    "family": "Platycephalidae",
+    "category": "Flatheads",
+    "searchTags": [
+      "bluespotted flathead",
+      "flathead",
+      "플랫헤드",
+      "납서대",
+      "양태"
+    ],
+    "sources": [
+      "sfm",
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "dusky_flathead",
+      "tiger_flathead"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "dusky_flathead",
+    "nameEN": "Dusky Flathead",
+    "nameKR": null,
+    "scientificName": "Platycephalus fuscus",
+    "family": "Platycephalidae",
+    "category": "Flatheads",
+    "searchTags": [
+      "dusky flathead",
+      "flathead",
+      "lizard",
+      "더스키플랫헤드",
+      "양태"
+    ],
+    "sources": [
+      "sfm",
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "bluespotted_flathead",
+      "tiger_flathead"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "tiger_flathead",
+    "nameEN": "Tiger Flathead",
+    "nameKR": null,
+    "scientificName": "Neoplatycephalus richardsoni",
+    "family": "Platycephalidae",
+    "category": "Flatheads",
+    "searchTags": [
+      "tiger flathead",
+      "flathead",
+      "타이거플랫헤드"
+    ],
+    "sources": [
+      "sfm",
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "bluespotted_flathead",
+      "dusky_flathead"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "southern_sand_flathead",
+    "nameEN": "Southern Sand Flathead",
+    "nameKR": null,
+    "scientificName": "Platycephalus bassensis",
+    "family": "Platycephalidae",
+    "category": "Flatheads",
+    "searchTags": [
+      "southern sand flathead",
+      "sand flathead",
+      "flathead",
+      "양태"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "bluespotted_flathead",
+      "dusky_flathead",
+      "tiger_flathead"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "deepwater_flathead",
+    "nameEN": "Deepwater Flathead",
+    "nameKR": null,
+    "scientificName": "Neoplatycephalus conatus",
+    "family": "Platycephalidae",
+    "category": "Flatheads",
+    "searchTags": [
+      "deepwater flathead",
+      "flathead"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "tiger_flathead"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "yabby",
+    "nameEN": "Yabby",
+    "nameKR": null,
+    "scientificName": "Cherax destructor",
+    "family": "Parastacidae",
+    "category": "Freshwater Crayfish",
+    "searchTags": [
+      "yabby",
+      "yabbies",
+      "freshwater crayfish",
+      "야비",
+      "민물가재"
+    ],
+    "sources": [
+      "sfm",
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "redclaw",
+      "marron"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "redclaw",
+    "nameEN": "Redclaw",
+    "nameKR": null,
+    "scientificName": "Cherax quadricarinatus",
+    "family": "Parastacidae",
+    "category": "Freshwater Crayfish",
+    "searchTags": [
+      "redclaw",
+      "freshwater crayfish",
+      "레드클로",
+      "민물가재"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "yabby",
+      "marron"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "marron",
+    "nameEN": "Marron",
+    "nameKR": null,
+    "scientificName": "Cherax tenuimanus",
+    "family": "Parastacidae",
+    "category": "Freshwater Crayfish",
+    "searchTags": [
+      "marron",
+      "freshwater crayfish",
+      "마론",
+      "민물가재"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "yabby",
+      "redclaw"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "murray_cod",
+    "nameEN": "Murray Cod",
+    "nameKR": null,
+    "scientificName": "Maccullochella peelii",
+    "family": "Percichthyidae",
+    "category": "Freshwater Fish",
+    "searchTags": [
+      "murray cod",
+      "cod",
+      "codfish",
+      "머레이코드",
+      "머레이대구"
+    ],
+    "sources": [
+      "sfm",
+      "dpi",
+      "umall"
+    ],
+    "relatedSpecies": [
+      "golden_perch",
+      "barramundi",
+      "australian_bass"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "golden_perch",
+    "nameEN": "Golden Perch",
+    "nameKR": null,
+    "scientificName": "Macquaria ambigua",
+    "family": "Percichthyidae",
+    "category": "Freshwater Fish",
+    "searchTags": [
+      "golden perch",
+      "yellowbelly",
+      "callop",
+      "골든퍼치"
+    ],
+    "sources": [
+      "sfm",
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "murray_cod",
+      "silver_perch"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "barramundi",
+    "nameEN": "Barramundi",
+    "nameKR": null,
+    "scientificName": "Lates calcarifer",
+    "family": "Latidae",
+    "category": "Freshwater Fish",
+    "searchTags": [
+      "barramundi",
+      "barra",
+      "바라문디",
+      "바라먼디",
+      "아카메",
+      "アカメ"
+    ],
+    "sources": [
+      "sfm",
+      "umall"
+    ],
+    "relatedSpecies": [
+      "murray_cod"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "australian_bass",
+    "nameEN": "Australian Bass",
+    "nameKR": null,
+    "scientificName": "Macquaria novemaculeata",
+    "family": "Percichthyidae",
+    "category": "Freshwater Fish",
+    "searchTags": [
+      "australian bass",
+      "bass",
+      "호주배스"
+    ],
+    "sources": [
+      "sfm",
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "murray_cod",
+      "golden_perch"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "silver_perch",
+    "nameEN": "Silver Perch",
+    "nameKR": null,
+    "scientificName": "Bidyanus bidyanus",
+    "family": "Terapontidae",
+    "category": "Freshwater Fish",
+    "searchTags": [
+      "silver perch",
+      "실버퍼치"
+    ],
+    "sources": [
+      "sfm",
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "golden_perch"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "ocean_jacket",
+    "nameEN": "Ocean Jacket",
+    "nameKR": null,
+    "scientificName": "Nelusetta ayraudi",
+    "family": "Monacanthidae",
+    "category": "Leatherjackets",
+    "searchTags": [
+      "ocean jacket",
+      "leatherjacket",
+      "쥐치",
+      "쥐포",
+      "카와하기",
+      "カワハギ"
+    ],
+    "sources": [
+      "sfm",
+      "dpi"
+    ],
+    "relatedSpecies": [],
+    "nameKR_source": null
+  },
+  {
+    "id": "rock_ling",
+    "nameEN": "Rock Ling",
+    "nameKR": null,
+    "scientificName": "Genypterus tigerinus",
+    "family": "Ophidiidae",
+    "category": "Lings",
+    "searchTags": [
+      "rock ling",
+      "ling",
+      "록링"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "pink_ling"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "pink_ling",
+    "nameEN": "Pink Ling",
+    "nameKR": null,
+    "scientificName": "Genypterus blacodes",
+    "family": "Ophidiidae",
+    "category": "Lings",
+    "searchTags": [
+      "pink ling",
+      "ling",
+      "kingclip",
+      "핑크링"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "rock_ling"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "blue_mackerel",
+    "nameEN": "Blue Mackerel",
+    "nameKR": "망치고등어",
+    "scientificName": "Scomber australasicus",
+    "family": "Scombridae",
+    "category": "Mackerels",
+    "searchTags": [
+      "blue mackerel",
+      "mackerel",
+      "saba",
+      "고등어",
+      "간고등어",
+      "자반고등어",
+      "안동간고등어",
+      "사바",
+      "サバ",
+      "鯖",
+      "마커렐",
+      "노르웨이고등어",
+      "제주고등어",
+      "망치고등어"
+    ],
+    "sources": [
+      "sfm",
+      "kurly",
+      "emart",
+      "tpirates"
+    ],
+    "relatedSpecies": [
+      "spanish_mackerel",
+      "school_mackerel",
+      "spotted_mackerel"
+    ],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "spanish_mackerel",
+    "nameEN": "Spanish Mackerel",
+    "nameKR": "동갈삼치",
+    "scientificName": "Scomberomorus commerson",
+    "family": "Scombridae",
+    "category": "Mackerels",
+    "searchTags": [
+      "spanish mackerel",
+      "mackerel",
+      "삼치",
+      "사와라",
+      "サワラ",
+      "鰆",
+      "narrow-barred",
+      "동갈삼치"
+    ],
+    "sources": [
+      "sfm",
+      "dpi",
+      "kurly",
+      "emart"
+    ],
+    "relatedSpecies": [
+      "blue_mackerel",
+      "school_mackerel"
+    ],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "school_mackerel",
+    "nameEN": "School Mackerel",
+    "nameKR": null,
+    "scientificName": "Scomberomorus queenslandicus",
+    "family": "Scombridae",
+    "category": "Mackerels",
+    "searchTags": [
+      "school mackerel",
+      "mackerel",
+      "동갈삼치",
+      "삼치",
+      "재방어",
+      "평삼치"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "blue_mackerel",
+      "spanish_mackerel"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "grey_mackerel",
+    "nameEN": "Grey Mackerel",
+    "nameKR": null,
+    "scientificName": "Scomberomorus semifasciatus",
+    "family": "Scombridae",
+    "category": "Mackerels",
+    "searchTags": [
+      "grey mackerel",
+      "mackerel",
+      "동갈삼치",
+      "삼치",
+      "재방어",
+      "평삼치"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "blue_mackerel",
+      "spanish_mackerel"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "spotted_mackerel",
+    "nameEN": "Spotted Mackerel",
+    "nameKR": null,
+    "scientificName": "Scomberomorus munroi",
+    "family": "Scombridae",
+    "category": "Mackerels",
+    "searchTags": [
+      "spotted mackerel",
+      "mackerel",
+      "점매커럴",
+      "동갈삼치",
+      "삼치",
+      "재방어",
+      "평삼치"
+    ],
+    "sources": [
+      "sfm",
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "blue_mackerel",
+      "spanish_mackerel"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "sea_mullet",
+    "nameEN": "Sea Mullet",
+    "nameKR": "숭어",
+    "scientificName": "Mugil cephalus",
+    "family": "Mugilidae",
+    "category": "Mullets",
+    "searchTags": [
+      "sea mullet",
+      "mullet",
+      "bully mullet",
+      "숭어",
+      "보라",
+      "ボラ",
+      "어란"
+    ],
+    "sources": [
+      "sfm",
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "diamondscale_mullet"
+    ],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "diamondscale_mullet",
+    "nameEN": "Diamondscale Mullet",
+    "nameKR": null,
+    "scientificName": "Liza vaigiensis",
+    "family": "Mugilidae",
+    "category": "Mullets",
+    "searchTags": [
+      "diamondscale mullet",
+      "mullet"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "sea_mullet"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "blue_mussel",
+    "nameEN": "Blue Mussel",
+    "nameKR": null,
+    "scientificName": "Mytilus galloprovincialis",
+    "family": "Mytilidae",
+    "category": "Mussels",
+    "searchTags": [
+      "blue mussel",
+      "mussel",
+      "홍합",
+      "무르가이",
+      "ムール貝",
+      "mussels",
+      "홍합살"
+    ],
+    "sources": [
+      "sfm",
+      "emart",
+      "tpirates"
+    ],
+    "relatedSpecies": [],
+    "nameKR_source": null
+  },
+  {
+    "id": "native_oyster",
+    "nameEN": "Native Oyster",
+    "nameKR": null,
+    "scientificName": "Ostrea angasi",
+    "family": "Ostreidae",
+    "category": "Oysters",
+    "searchTags": [
+      "native oyster",
+      "flat oyster",
+      "토종굴"
+    ],
+    "sources": [
+      "sfm",
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "sydney_rock_oyster",
+      "pacific_oyster"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "sydney_rock_oyster",
+    "nameEN": "Sydney Rock Oyster",
+    "nameKR": null,
+    "scientificName": "Saccostrea glomerata",
+    "family": "Ostreidae",
+    "category": "Oysters",
+    "searchTags": [
+      "sydney rock oyster",
+      "rock oyster",
+      "SRO",
+      "시드니록굴",
+      "굴",
+      "석화",
+      "카키",
+      "カキ",
+      "牡蠣"
+    ],
+    "sources": [
+      "sfm",
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "pacific_oyster",
+      "native_oyster"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "pacific_oyster",
+    "nameEN": "Pacific Oyster",
+    "nameKR": null,
+    "scientificName": "Crassostrea gigas",
+    "family": "Ostreidae",
+    "category": "Oysters",
+    "searchTags": [
+      "pacific oyster",
+      "태평양굴",
+      "굴",
+      "석화",
+      "카키",
+      "カキ",
+      "생굴",
+      "통영굴",
+      "바위굴"
+    ],
+    "sources": [
+      "sfm",
+      "dpi",
+      "emart",
+      "tpirates"
+    ],
+    "relatedSpecies": [
+      "sydney_rock_oyster",
+      "native_oyster"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "bay_prawn",
+    "nameEN": "Bay Prawn",
+    "nameKR": null,
+    "scientificName": "Metapenaeus bennettae",
+    "family": "Penaeidae",
+    "category": "Prawns",
+    "searchTags": [
+      "bay prawn",
+      "prawn",
+      "베이새우"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "king_prawn",
+      "tiger_prawn",
+      "school_prawn"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "banana_prawn",
+    "nameEN": "Banana Prawn",
+    "nameKR": null,
+    "scientificName": "Fenneropenaeus indicus",
+    "family": "Penaeidae",
+    "category": "Prawns",
+    "searchTags": [
+      "banana prawn",
+      "prawn",
+      "바나나새우"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "king_prawn",
+      "tiger_prawn"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "royal_red_prawn",
+    "nameEN": "Royal Red Prawn",
+    "nameKR": null,
+    "scientificName": "Haliporoides sibogae",
+    "family": "Solenoceridae",
+    "category": "Prawns",
+    "searchTags": [
+      "royal red prawn",
+      "red prawn",
+      "홍새우",
+      "붉은새우",
+      "아르헨티나홍새우"
+    ],
+    "sources": [
+      "sfm",
+      "emart"
+    ],
+    "relatedSpecies": [
+      "king_prawn"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "king_prawn",
+    "nameEN": "King Prawn",
+    "nameKR": null,
+    "scientificName": "Melicertus latisulcatus",
+    "family": "Penaeidae",
+    "category": "Prawns",
+    "searchTags": [
+      "king prawn",
+      "prawn",
+      "킹새우",
+      "왕새우",
+      "대하",
+      "새우",
+      "쿠루마에비",
+      "クルマエビ",
+      "king prawns"
+    ],
+    "sources": [
+      "sfm",
+      "umall"
+    ],
+    "relatedSpecies": [
+      "tiger_prawn",
+      "banana_prawn",
+      "school_prawn"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "endeavour_prawn",
+    "nameEN": "Endeavour Prawn",
+    "nameKR": null,
+    "scientificName": "Metapenaeus endeavouri",
+    "family": "Penaeidae",
+    "category": "Prawns",
+    "searchTags": [
+      "endeavour prawn",
+      "prawn"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "king_prawn",
+      "tiger_prawn"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "tiger_prawn",
+    "nameEN": "Tiger Prawn",
+    "nameKR": null,
+    "scientificName": "Penaeus monodon",
+    "family": "Penaeidae",
+    "category": "Prawns",
+    "searchTags": [
+      "tiger prawn",
+      "black tiger prawn",
+      "BTP",
+      "타이거새우",
+      "블랙타이거",
+      "킹타이거",
+      "대왕새우",
+      "black tiger",
+      "보리새우"
+    ],
+    "sources": [
+      "sfm",
+      "dpi",
+      "emart",
+      "tpirates",
+      "umall"
+    ],
+    "relatedSpecies": [
+      "king_prawn",
+      "banana_prawn"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "school_prawn",
+    "nameEN": "School Prawn",
+    "nameKR": null,
+    "scientificName": "Metapenaeus macleayi",
+    "family": "Penaeidae",
+    "category": "Prawns",
+    "searchTags": [
+      "school prawn",
+      "prawn"
+    ],
+    "sources": [
+      "sfm",
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "king_prawn",
+      "bay_prawn"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "whiteleg_shrimp",
+    "nameEN": "Whiteleg Shrimp",
+    "nameKR": null,
+    "scientificName": "Litopenaeus vannamei",
+    "family": "Penaeidae",
+    "category": "Prawns",
+    "searchTags": [
+      "whiteleg shrimp",
+      "vannamei",
+      "흰다리새우",
+      "흰다리",
+      "white shrimp",
+      "새우살",
+      "칵테일새우",
+      "감바스새우"
+    ],
+    "sources": [
+      "emart",
+      "tpirates"
+    ],
+    "relatedSpecies": [
+      "king_prawn",
+      "tiger_prawn"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "eastern_shovelnose_ray",
+    "nameEN": "Eastern Shovelnose Ray",
+    "nameKR": null,
+    "scientificName": "Aptychotrema rostrata",
+    "family": "Rhinobatidae",
+    "category": "Rays",
+    "searchTags": [
+      "shovelnose ray",
+      "ray",
+      "guitarfish",
+      "가오리"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [],
+    "nameKR_source": null
+  },
+  {
+    "id": "tropical_rock_lobster",
+    "nameEN": "Tropical Rock Lobster",
+    "nameKR": null,
+    "scientificName": "Panulirus ornatus",
+    "family": "Palinuridae",
+    "category": "Rock Lobsters",
+    "searchTags": [
+      "tropical rock lobster",
+      "painted lobster",
+      "ornate lobster",
+      "열대랍스터",
+      "이세에비",
+      "イセエビ"
+    ],
+    "sources": [
+      "sfm",
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "eastern_rock_lobster",
+      "southern_rock_lobster"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "southern_rock_lobster",
+    "nameEN": "Southern Rock Lobster",
+    "nameKR": null,
+    "scientificName": "Jasus edwardsii",
+    "family": "Palinuridae",
+    "category": "Rock Lobsters",
+    "searchTags": [
+      "southern rock lobster",
+      "rock lobster",
+      "crayfish",
+      "남부랍스터",
+      "랍스타",
+      "lobster"
+    ],
+    "sources": [
+      "sfm",
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "eastern_rock_lobster",
+      "tropical_rock_lobster",
+      "western_rock_lobster"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "eastern_rock_lobster",
+    "nameEN": "Eastern Rock Lobster",
+    "nameKR": null,
+    "scientificName": "Jasus verreauxi",
+    "family": "Palinuridae",
+    "category": "Rock Lobsters",
+    "searchTags": [
+      "eastern rock lobster",
+      "rock lobster",
+      "cray",
+      "동부랍스터",
+      "랍스타"
+    ],
+    "sources": [
+      "sfm",
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "southern_rock_lobster",
+      "tropical_rock_lobster"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "western_rock_lobster",
+    "nameEN": "Western Rock Lobster",
+    "nameKR": null,
+    "scientificName": "Panulirus cygnus",
+    "family": "Palinuridae",
+    "category": "Rock Lobsters",
+    "searchTags": [
+      "western rock lobster",
+      "rock lobster",
+      "서부랍스터"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "southern_rock_lobster",
+      "eastern_rock_lobster"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "lobster",
+    "nameEN": "Lobster",
+    "nameKR": null,
+    "scientificName": "Homarus americanus",
+    "family": "Nephropidae",
+    "category": "Lobsters",
+    "searchTags": [
+      "lobster",
+      "랍스터",
+      "랍스타",
+      "활랍스터",
+      "캐나다랍스터",
+      "로브스타",
+      "ロブスター",
+      "lobster tail",
+      "랍스터테일"
+    ],
+    "sources": [
+      "emart",
+      "tpirates"
+    ],
+    "relatedSpecies": [
+      "eastern_rock_lobster",
+      "southern_rock_lobster"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "coral_trout",
+    "nameEN": "Coral Trout",
+    "nameKR": null,
+    "scientificName": "Variola louti",
+    "family": "Serranidae",
+    "category": "Rockcods",
+    "searchTags": [
+      "coral trout",
+      "능성어",
+      "코럴트라우트"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "bar_rockcod",
+      "goldspotted_rockcod"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "bar_rockcod",
+    "nameEN": "Bar Rockcod",
+    "nameKR": null,
+    "scientificName": "Epinephelus septemfasciatus",
+    "family": "Serranidae",
+    "category": "Rockcods",
+    "searchTags": [
+      "bar rockcod",
+      "rockcod",
+      "grouper",
+      "바리",
+      "다금바리",
+      "구실우럭",
+      "닻줄바리",
+      "도도바리",
+      "볼줄바리",
+      "붉바리",
+      "알락우럭",
+      "자바리",
+      "점줄우럭",
+      "종대우럭",
+      "홍바리"
+    ],
+    "sources": [
+      "sfm",
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "coral_trout",
+      "goldspotted_rockcod"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "goldspotted_rockcod",
+    "nameEN": "Goldspotted Rockcod",
+    "nameKR": null,
+    "scientificName": "Epinephelus coioides",
+    "family": "Serranidae",
+    "category": "Rockcods",
+    "searchTags": [
+      "goldspotted rockcod",
+      "grouper",
+      "그루퍼",
+      "구실우럭",
+      "닻줄바리",
+      "도도바리",
+      "볼줄바리",
+      "붉바리",
+      "알락우럭",
+      "자바리",
+      "점줄우럭",
+      "종대우럭",
+      "홍바리"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "coral_trout",
+      "bar_rockcod"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "atlantic_salmon",
+    "nameEN": "Atlantic Salmon",
+    "nameKR": null,
+    "scientificName": "Salmo salar",
+    "family": "Salmonidae",
+    "category": "Salmon & Trout",
+    "searchTags": [
+      "atlantic salmon",
+      "salmon",
+      "tasmanian salmon",
+      "연어",
+      "사몬",
+      "사케",
+      "サケ",
+      "サーモン",
+      "鮭",
+      "훈제연어",
+      "생연어",
+      "연어회",
+      "연어스테이크",
+      "노르웨이연어",
+      "킹연어"
+    ],
+    "sources": [
+      "sfm",
+      "dpi",
+      "kurly",
+      "emart",
+      "tpirates",
+      "umall"
+    ],
+    "relatedSpecies": [
+      "chinook_salmon",
+      "rainbow_trout",
+      "brook_trout"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "chinook_salmon",
+    "nameEN": "Chinook Salmon",
+    "nameKR": null,
+    "scientificName": "Oncorhynchus tshawytscha",
+    "family": "Salmonidae",
+    "category": "Salmon & Trout",
+    "searchTags": [
+      "chinook salmon",
+      "king salmon",
+      "킹연어",
+      "킹사몬",
+      "キングサーモン",
+      "곱사연어",
+      "무지개송어",
+      "산천어",
+      "송어",
+      "연어",
+      "은연어"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "atlantic_salmon",
+      "rainbow_trout"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "rainbow_trout",
+    "nameEN": "Rainbow Trout",
+    "nameKR": "무지개송어",
+    "scientificName": "Oncorhynchus mykiss",
+    "family": "Salmonidae",
+    "category": "Salmon & Trout",
+    "searchTags": [
+      "rainbow trout",
+      "ocean trout",
+      "trout",
+      "송어",
+      "무지개송어",
+      "니지마스",
+      "ニジマス",
+      "steelhead"
+    ],
+    "sources": [
+      "sfm",
+      "dpi",
+      "tpirates"
+    ],
+    "relatedSpecies": [
+      "atlantic_salmon",
+      "chinook_salmon",
+      "brown_trout"
+    ],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "brook_trout",
+    "nameEN": "Brook Trout",
+    "nameKR": null,
+    "scientificName": "Salvelinus fontinalis",
+    "family": "Salmonidae",
+    "category": "Salmon & Trout",
+    "searchTags": [
+      "brook trout",
+      "charr",
+      "saltwater charr",
+      "홍송어"
+    ],
+    "sources": [
+      "sfm",
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "rainbow_trout",
+      "brown_trout"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "brown_trout",
+    "nameEN": "Brown Trout",
+    "nameKR": null,
+    "scientificName": "Salmo trutta",
+    "family": "Salmonidae",
+    "category": "Salmon & Trout",
+    "searchTags": [
+      "brown trout",
+      "trout"
+    ],
+    "sources": [
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "rainbow_trout",
+      "brook_trout"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "commercial_scallop",
+    "nameEN": "Commercial Scallop",
+    "nameKR": null,
+    "scientificName": "Pecten fumatus",
+    "family": "Pectinidae",
+    "category": "Scallops",
+    "searchTags": [
+      "scallop",
+      "commercial scallop",
+      "가리비",
+      "홍가리비",
+      "관자",
+      "호타테",
+      "ホタテ",
+      "帆立",
+      "가리비관자",
+      "bay scallop",
+      "half shell scallop"
+    ],
+    "sources": [
+      "sfm",
+      "dpi",
+      "emart",
+      "tpirates",
+      "umall"
+    ],
+    "relatedSpecies": [
+      "saucer_scallop"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "saucer_scallop",
+    "nameEN": "Saucer Scallop",
+    "nameKR": null,
+    "scientificName": "Amusium balloti",
+    "family": "Pectinidae",
+    "category": "Scallops",
+    "searchTags": [
+      "saucer scallop",
+      "scallop",
+      "소서가리비"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "commercial_scallop"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "cuttlefish",
+    "nameEN": "Cuttlefish",
+    "nameKR": null,
+    "scientificName": "Sepia apama",
+    "family": "Sepiidae",
+    "category": "Squid & Cuttlefish",
+    "searchTags": [
+      "cuttlefish",
+      "giant cuttlefish",
+      "갑오징어",
+      "코우이카",
+      "コウイカ",
+      "甲イカ",
+      "먹물"
+    ],
+    "sources": [
+      "sfm",
+      "dpi",
+      "kurly",
+      "tpirates"
+    ],
+    "relatedSpecies": [
+      "goulds_squid",
+      "southern_calamari"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "goulds_squid",
+    "nameEN": "Gould's Squid",
+    "nameKR": null,
+    "scientificName": "Nototodarus gouldi",
+    "family": "Ommastrephidae",
+    "category": "Squid & Cuttlefish",
+    "searchTags": [
+      "goulds squid",
+      "arrow squid",
+      "squid",
+      "오징어",
+      "화살오징어",
+      "스루메이카",
+      "スルメイカ"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "southern_calamari",
+      "cuttlefish",
+      "loligo_squid"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "southern_calamari",
+    "nameEN": "Southern Calamari",
+    "nameKR": null,
+    "scientificName": "Sepioteuthis australis",
+    "family": "Loliginidae",
+    "category": "Squid & Cuttlefish",
+    "searchTags": [
+      "southern calamari",
+      "calamari",
+      "squid",
+      "한치",
+      "칼라마리"
+    ],
+    "sources": [
+      "sfm",
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "northern_calamari",
+      "goulds_squid"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "northern_calamari",
+    "nameEN": "Northern Calamari",
+    "nameKR": null,
+    "scientificName": "Sepioteuthis lessoniana",
+    "family": "Loliginidae",
+    "category": "Squid & Cuttlefish",
+    "searchTags": [
+      "northern calamari",
+      "calamari",
+      "bigfin reef squid"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "southern_calamari"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "loligo_squid",
+    "nameEN": "Loligo Squid",
+    "nameKR": null,
+    "scientificName": "Loligo spp.",
+    "family": "Loliginidae",
+    "category": "Squid & Cuttlefish",
+    "searchTags": [
+      "loligo squid",
+      "squid",
+      "살오징어"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "goulds_squid",
+      "southern_calamari"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "squid",
+    "nameEN": "Squid",
+    "nameKR": null,
+    "scientificName": "Teuthida spp.",
+    "family": "Various",
+    "category": "Squid & Cuttlefish",
+    "searchTags": [
+      "squid",
+      "오징어",
+      "건오징어",
+      "마른오징어",
+      "반건조오징어",
+      "피데기",
+      "채낚기오징어",
+      "무늬오징어",
+      "초코오징어",
+      "이카",
+      "イカ",
+      "烏賊"
+    ],
+    "sources": [
+      "dpi",
+      "kurly",
+      "emart",
+      "tpirates",
+      "umall"
+    ],
+    "relatedSpecies": [
+      "goulds_squid",
+      "southern_calamari",
+      "cuttlefish"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "queenfish",
+    "nameEN": "Queenfish",
+    "nameKR": null,
+    "scientificName": "Scomberoides tol",
+    "family": "Carangidae",
+    "category": "Trevallies",
+    "searchTags": [
+      "queenfish",
+      "퀸피시"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "silver_trevally",
+      "yellowtail_kingfish"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "jack_mackerel",
+    "nameEN": "Jack Mackerel",
+    "nameKR": "녹줄매가리",
+    "scientificName": "Trachurus declivis",
+    "family": "Carangidae",
+    "category": "Trevallies",
+    "searchTags": [
+      "jack mackerel",
+      "mackerel",
+      "전갱이",
+      "아지",
+      "アジ",
+      "鯵",
+      "녹줄매가리"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "silver_trevally",
+      "yellowtail_scad"
+    ],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "dart",
+    "nameEN": "Dart",
+    "nameKR": null,
+    "scientificName": "Trachinotus botla",
+    "family": "Carangidae",
+    "category": "Trevallies",
+    "searchTags": [
+      "dart",
+      "pompano",
+      "다트",
+      "빨판매가리"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "silver_trevally"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "black_pomfret",
+    "nameEN": "Black Pomfret",
+    "nameKR": "병치매가리",
+    "scientificName": "Parastromateus niger",
+    "family": "Carangidae",
+    "category": "Trevallies",
+    "searchTags": [
+      "black pomfret",
+      "pomfret",
+      "병어",
+      "참병어",
+      "마나가쓰오",
+      "マナガツオ",
+      "병치매가리"
+    ],
+    "sources": [
+      "sfm",
+      "kurly",
+      "tpirates"
+    ],
+    "relatedSpecies": [
+      "silver_trevally"
+    ],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "silver_trevally",
+    "nameEN": "Silver Trevally",
+    "nameKR": null,
+    "scientificName": "Pseudocaranx dentex",
+    "family": "Carangidae",
+    "category": "Trevallies",
+    "searchTags": [
+      "silver trevally",
+      "trevally",
+      "skipjack trevally",
+      "실버트레발리",
+      "트레발리",
+      "시마아지",
+      "シマアジ"
+    ],
+    "sources": [
+      "sfm",
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "yellowtail_kingfish",
+      "samsonfish"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "samsonfish",
+    "nameEN": "Samsonfish",
+    "nameKR": null,
+    "scientificName": "Seriola hippos",
+    "family": "Carangidae",
+    "category": "Trevallies",
+    "searchTags": [
+      "samsonfish",
+      "삼손피시",
+      "낫잿방어",
+      "방어",
+      "부시리",
+      "잿방어"
+    ],
+    "sources": [
+      "sfm",
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "yellowtail_kingfish",
+      "silver_trevally"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "yellowtail_kingfish",
+    "nameEN": "Yellowtail Kingfish",
+    "nameKR": "부시리",
+    "scientificName": "Seriola lalandi",
+    "family": "Carangidae",
+    "category": "Trevallies",
+    "searchTags": [
+      "yellowtail kingfish",
+      "kingfish",
+      "kingy",
+      "yellowtail",
+      "hiramasa",
+      "방어",
+      "킹피시",
+      "킹피쉬",
+      "히라마사",
+      "ヒラマサ",
+      "平政",
+      "부리",
+      "ブリ",
+      "하마치",
+      "ハマチ",
+      "부시리"
+    ],
+    "sources": [
+      "sfm",
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "samsonfish",
+      "silver_trevally",
+      "amberjack"
+    ],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "yellowtail_scad",
+    "nameEN": "Yellowtail Scad",
+    "nameKR": null,
+    "scientificName": "Trachurus novaezelandiae",
+    "family": "Carangidae",
+    "category": "Trevallies",
+    "searchTags": [
+      "yellowtail scad",
+      "scad",
+      "yakka",
+      "녹줄매가리",
+      "전갱이"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "jack_mackerel"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "bigeye_tuna",
+    "nameEN": "Bigeye Tuna",
+    "nameKR": "눈다랑어",
+    "scientificName": "Thunnus obesus",
+    "family": "Scombridae",
+    "category": "Tunas",
+    "searchTags": [
+      "bigeye tuna",
+      "bigeye",
+      "tuna",
+      "눈다랑어",
+      "메바치",
+      "メバチ",
+      "눈참치"
+    ],
+    "sources": [
+      "sfm",
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "yellowfin_tuna",
+      "southern_bluefin_tuna",
+      "albacore"
+    ],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "albacore",
+    "nameEN": "Albacore",
+    "nameKR": "날개다랑어",
+    "scientificName": "Thunnus alalunga",
+    "family": "Scombridae",
+    "category": "Tunas",
+    "searchTags": [
+      "albacore",
+      "albacore tuna",
+      "longfin tuna",
+      "날개다랑어",
+      "빈나가",
+      "ビンナガ"
+    ],
+    "sources": [
+      "sfm",
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "yellowfin_tuna",
+      "bigeye_tuna"
+    ],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "bonito",
+    "nameEN": "Bonito",
+    "nameKR": null,
+    "scientificName": "Sarda australis",
+    "family": "Scombridae",
+    "category": "Tunas",
+    "searchTags": [
+      "bonito",
+      "가다랑어",
+      "카쓰오",
+      "カツオ",
+      "보니또",
+      "줄삼치"
+    ],
+    "sources": [
+      "sfm",
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "albacore",
+      "yellowfin_tuna"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "yellowfin_tuna",
+    "nameEN": "Yellowfin Tuna",
+    "nameKR": "황다랑어",
+    "scientificName": "Thunnus albacares",
+    "family": "Scombridae",
+    "category": "Tunas",
+    "searchTags": [
+      "yellowfin tuna",
+      "yellowfin",
+      "tuna",
+      "황다랑어",
+      "키하다",
+      "キハダ",
+      "참치"
+    ],
+    "sources": [
+      "sfm",
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "bigeye_tuna",
+      "southern_bluefin_tuna"
+    ],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "southern_bluefin_tuna",
+    "nameEN": "Southern Bluefin Tuna",
+    "nameKR": null,
+    "scientificName": "Thunnus maccoyii",
+    "family": "Scombridae",
+    "category": "Tunas",
+    "searchTags": [
+      "southern bluefin tuna",
+      "bluefin",
+      "SBT",
+      "tuna",
+      "남방참다랑어",
+      "참다랑어",
+      "참치",
+      "혼마구로",
+      "ホンマグロ",
+      "本鮪",
+      "마구로",
+      "マグロ",
+      "참치회",
+      "참치뱃살",
+      "대뱃살",
+      "중뱃살",
+      "날개다랑어",
+      "눈다랑어",
+      "백다랑어",
+      "황다랑어"
+    ],
+    "sources": [
+      "sfm",
+      "dpi",
+      "tpirates"
+    ],
+    "relatedSpecies": [
+      "yellowfin_tuna",
+      "bigeye_tuna"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "longtail_tuna",
+    "nameEN": "Longtail Tuna",
+    "nameKR": "백다랑어",
+    "scientificName": "Thunnus tonggol",
+    "family": "Scombridae",
+    "category": "Tunas",
+    "searchTags": [
+      "longtail tuna",
+      "tuna",
+      "northern bluefin",
+      "백다랑어"
+    ],
+    "sources": [
+      "sfm",
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "yellowfin_tuna",
+      "southern_bluefin_tuna"
+    ],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "king_george_whiting",
+    "nameEN": "King George Whiting",
+    "nameKR": null,
+    "scientificName": "Sillaginodes punctatus",
+    "family": "Sillaginidae",
+    "category": "Whitings",
+    "searchTags": [
+      "king george whiting",
+      "KGW",
+      "whiting",
+      "킹조지화이팅",
+      "보리멸"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "sand_whiting",
+      "school_whiting"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "sand_whiting",
+    "nameEN": "Sand Whiting",
+    "nameKR": null,
+    "scientificName": "Sillago ciliata",
+    "family": "Sillaginidae",
+    "category": "Whitings",
+    "searchTags": [
+      "sand whiting",
+      "whiting",
+      "summer whiting",
+      "silver whiting",
+      "샌드화이팅",
+      "키스",
+      "キス",
+      "보리멸",
+      "별보리멸",
+      "청보리멸"
+    ],
+    "sources": [
+      "sfm",
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "king_george_whiting",
+      "school_whiting"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "school_whiting",
+    "nameEN": "School Whiting",
+    "nameKR": null,
+    "scientificName": "Sillago flindersi",
+    "family": "Sillaginidae",
+    "category": "Whitings",
+    "searchTags": [
+      "school whiting",
+      "whiting",
+      "trawl whiting",
+      "별보리멸",
+      "보리멸",
+      "청보리멸"
+    ],
+    "sources": [
+      "sfm",
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "sand_whiting",
+      "king_george_whiting"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "trumpeter_whiting",
+    "nameEN": "Trumpeter Whiting",
+    "nameKR": null,
+    "scientificName": "Sillago maculata",
+    "family": "Sillaginidae",
+    "category": "Whitings",
+    "searchTags": [
+      "trumpeter whiting",
+      "whiting",
+      "별보리멸",
+      "보리멸",
+      "청보리멸"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "sand_whiting",
+      "school_whiting"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "yellowfin_whiting",
+    "nameEN": "Yellowfin Whiting",
+    "nameKR": null,
+    "scientificName": "Sillago schomburgkii",
+    "family": "Sillaginidae",
+    "category": "Whitings",
+    "searchTags": [
+      "yellowfin whiting",
+      "whiting",
+      "별보리멸",
+      "보리멸",
+      "청보리멸"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "sand_whiting"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "bailer_shell",
+    "nameEN": "Bailer Shell",
+    "nameKR": null,
+    "scientificName": "Livonia mammilla",
+    "family": "Volutidae",
+    "category": "Sea Snails",
+    "searchTags": [
+      "bailer shell",
+      "volute"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "periwinkle",
+      "trochus"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "periwinkle",
+    "nameEN": "Periwinkle",
+    "nameKR": null,
+    "scientificName": "Littorinidae spp.",
+    "family": "Littorinidae",
+    "category": "Sea Snails",
+    "searchTags": [
+      "periwinkle",
+      "turban shell",
+      "고둥",
+      "소라"
+    ],
+    "sources": [
+      "sfm",
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "bailer_shell",
+      "trochus"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "trochus",
+    "nameEN": "Trochus",
+    "nameKR": null,
+    "scientificName": "Trochus niloticus",
+    "family": "Trochidae",
+    "category": "Sea Snails",
+    "searchTags": [
+      "trochus",
+      "top shell",
+      "소라",
+      "참소라",
+      "사자에",
+      "サザエ",
+      "뿔소라"
+    ],
+    "sources": [
+      "sfm",
+      "kurly",
+      "tpirates"
+    ],
+    "relatedSpecies": [
+      "periwinkle"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "luminous_bay_squid",
+    "nameEN": "Luminous Bay Squid",
+    "nameKR": null,
+    "scientificName": "Uroteuthis noctiluca",
+    "family": "Loliginidae",
+    "category": "Squid & Cuttlefish",
+    "searchTags": [
+      "luminous bay squid",
+      "bay squid"
+    ],
+    "sources": [
+      "sfm"
+    ],
+    "relatedSpecies": [
+      "southern_calamari",
+      "loligo_squid"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "amberjack",
+    "nameEN": "Amberjack",
+    "nameKR": "잿방어",
+    "scientificName": "Seriola dumerili",
+    "family": "Carangidae",
+    "category": "Trevallies",
+    "searchTags": [
+      "amberjack",
+      "amber jack",
+      "잿방어",
+      "간파치",
+      "カンパチ",
+      "간빠치"
+    ],
+    "sources": [
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "yellowtail_kingfish",
+      "samsonfish"
+    ],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "australian_salmon",
+    "nameEN": "Australian Salmon",
+    "nameKR": null,
+    "scientificName": "Arripis trutta",
+    "family": "Arripidae",
+    "category": "Other Fish",
+    "searchTags": [
+      "australian salmon",
+      "salmon trout",
+      "호주연어"
+    ],
+    "sources": [
+      "dpi"
+    ],
+    "relatedSpecies": [],
+    "nameKR_source": null
+  },
+  {
+    "id": "blue_eye_trevalla",
+    "nameEN": "Blue-eye Trevalla",
+    "nameKR": null,
+    "scientificName": "Hyperoglyphe antarctica",
+    "family": "Centrolophidae",
+    "category": "Other Fish",
+    "searchTags": [
+      "blue-eye trevalla",
+      "blue eye",
+      "blue eye cod",
+      "deep-sea trevalla",
+      "블루아이",
+      "은무태",
+      "연어병치"
+    ],
+    "sources": [
+      "dpi"
+    ],
+    "relatedSpecies": [],
+    "nameKR_source": null
+  },
+  {
+    "id": "blue_groper",
+    "nameEN": "Blue Groper",
+    "nameKR": null,
+    "scientificName": "Achoerodus viridis",
+    "family": "Labridae",
+    "category": "Other Fish",
+    "searchTags": [
+      "blue groper",
+      "groper",
+      "블루그로퍼"
+    ],
+    "sources": [
+      "dpi"
+    ],
+    "relatedSpecies": [],
+    "nameKR_source": null
+  },
+  {
+    "id": "cobia",
+    "nameEN": "Cobia",
+    "nameKR": "날쌔기",
+    "scientificName": "Rachycentron canadum",
+    "family": "Rachycentridae",
+    "category": "Other Fish",
+    "searchTags": [
+      "cobia",
+      "코비아",
+      "날쌔기"
+    ],
+    "sources": [
+      "dpi"
+    ],
+    "relatedSpecies": [],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "flounder",
+    "nameEN": "Flounder",
+    "nameKR": null,
+    "scientificName": "Pseudorhombus spp.",
+    "family": "Paralichthyidae",
+    "category": "Flatfish",
+    "searchTags": [
+      "flounder",
+      "넙치",
+      "광어",
+      "히라메",
+      "ヒラメ",
+      "平目",
+      "도다리",
+      "flattie",
+      "남해넙치",
+      "별넙치",
+      "점넙치"
+    ],
+    "sources": [
+      "dpi",
+      "kurly",
+      "emart",
+      "tpirates"
+    ],
+    "relatedSpecies": [
+      "sole"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "sole",
+    "nameEN": "Sole",
+    "nameKR": null,
+    "scientificName": "Heteromycteris spp.",
+    "family": "Soleidae",
+    "category": "Flatfish",
+    "searchTags": [
+      "sole",
+      "tongue sole",
+      "서대",
+      "박대",
+      "가레이",
+      "カレイ",
+      "납서대"
+    ],
+    "sources": [
+      "dpi",
+      "kurly",
+      "emart"
+    ],
+    "relatedSpecies": [
+      "flounder"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "garfish",
+    "nameEN": "Garfish",
+    "nameKR": null,
+    "scientificName": "Hyporhamphus australis",
+    "family": "Hemiramphidae",
+    "category": "Other Fish",
+    "searchTags": [
+      "garfish",
+      "gar",
+      "가피시",
+      "사요리",
+      "サヨリ",
+      "학꽁치",
+      "살공치",
+      "줄공치",
+      "학공치"
+    ],
+    "sources": [
+      "dpi"
+    ],
+    "relatedSpecies": [],
+    "nameKR_source": null
+  },
+  {
+    "id": "gemfish",
+    "nameEN": "Gemfish",
+    "nameKR": null,
+    "scientificName": "Rexea solandri",
+    "family": "Gempylidae",
+    "category": "Other Fish",
+    "searchTags": [
+      "gemfish",
+      "hake",
+      "젬피시",
+      "통치"
+    ],
+    "sources": [
+      "dpi"
+    ],
+    "relatedSpecies": [],
+    "nameKR_source": null
+  },
+  {
+    "id": "hapuku",
+    "nameEN": "Hapuku",
+    "nameKR": null,
+    "scientificName": "Polyprion oxygeneios",
+    "family": "Polyprionidae",
+    "category": "Other Fish",
+    "searchTags": [
+      "hapuku",
+      "hapuka",
+      "groper",
+      "하푸쿠"
+    ],
+    "sources": [
+      "dpi"
+    ],
+    "relatedSpecies": [],
+    "nameKR_source": null
+  },
+  {
+    "id": "luderick",
+    "nameEN": "Luderick",
+    "nameKR": null,
+    "scientificName": "Girella tricuspidata",
+    "family": "Girellidae",
+    "category": "Other Fish",
+    "searchTags": [
+      "luderick",
+      "blackfish",
+      "루더릭",
+      "벵에돔",
+      "メジナ",
+      "긴꼬리벵에돔",
+      "양벵에돔"
+    ],
+    "sources": [
+      "dpi"
+    ],
+    "relatedSpecies": [],
+    "nameKR_source": null
+  },
+  {
+    "id": "mahi_mahi",
+    "nameEN": "Mahi Mahi",
+    "nameKR": "만새기",
+    "scientificName": "Coryphaena hippurus",
+    "family": "Coryphaenidae",
+    "category": "Other Fish",
+    "searchTags": [
+      "mahi mahi",
+      "dolphinfish",
+      "dorado",
+      "만새기",
+      "시이라",
+      "シイラ"
+    ],
+    "sources": [
+      "dpi",
+      "umall"
+    ],
+    "relatedSpecies": [],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "mangrove_jack",
+    "nameEN": "Mangrove Jack",
+    "nameKR": "붉은퉁돔",
+    "scientificName": "Lutjanus argentimaculatus",
+    "family": "Lutjanidae",
+    "category": "Other Fish",
+    "searchTags": [
+      "mangrove jack",
+      "jack",
+      "맹그로브잭",
+      "붉은퉁돔"
+    ],
+    "sources": [
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "moses_snapper"
+    ],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "moses_snapper",
+    "nameEN": "Moses Snapper",
+    "nameKR": "점퉁돔",
+    "scientificName": "Lutjanus russellii",
+    "family": "Lutjanidae",
+    "category": "Other Fish",
+    "searchTags": [
+      "moses snapper",
+      "moses perch",
+      "점퉁돔"
+    ],
+    "sources": [
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "mangrove_jack",
+      "snapper"
+    ],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "mulloway",
+    "nameEN": "Mulloway",
+    "nameKR": null,
+    "scientificName": "Argyrosomus japonicus",
+    "family": "Sciaenidae",
+    "category": "Other Fish",
+    "searchTags": [
+      "mulloway",
+      "jewfish",
+      "jew",
+      "멀로웨이",
+      "민어",
+      "니베",
+      "ニベ"
+    ],
+    "sources": [
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "teraglin"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "octopus",
+    "nameEN": "Octopus",
+    "nameKR": null,
+    "scientificName": "Octopus spp.",
+    "family": "Octopodidae",
+    "category": "Cephalopods",
+    "searchTags": [
+      "octopus",
+      "문어",
+      "돌문어",
+      "타코",
+      "タコ",
+      "蛸",
+      "데친문어",
+      "숙회"
+    ],
+    "sources": [
+      "dpi",
+      "kurly",
+      "tpirates"
+    ],
+    "relatedSpecies": [
+      "webfoot_octopus"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "pearl_perch",
+    "nameEN": "Pearl Perch",
+    "nameKR": null,
+    "scientificName": "Glaucosoma scapulare",
+    "family": "Glaucosomatidae",
+    "category": "Other Fish",
+    "searchTags": [
+      "pearl perch",
+      "펄퍼치"
+    ],
+    "sources": [
+      "dpi"
+    ],
+    "relatedSpecies": [],
+    "nameKR_source": null
+  },
+  {
+    "id": "purple_sea_urchin",
+    "nameEN": "Purple Sea Urchin",
+    "nameKR": null,
+    "scientificName": "Heliocidaris erythrogramma",
+    "family": "Echinometridae",
+    "category": "Sea Urchins",
+    "searchTags": [
+      "sea urchin",
+      "urchin",
+      "uni",
+      "성게",
+      "성게알",
+      "우니",
+      "ウニ",
+      "雲丹"
+    ],
+    "sources": [
+      "dpi",
+      "emart",
+      "tpirates"
+    ],
+    "relatedSpecies": [],
+    "nameKR_source": null
+  },
+  {
+    "id": "sailfish",
+    "nameEN": "Sailfish",
+    "nameKR": "돛새치",
+    "scientificName": "Istiophorus platypterus",
+    "family": "Istiophoridae",
+    "category": "Billfish",
+    "searchTags": [
+      "sailfish",
+      "돛새치"
+    ],
+    "sources": [
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "striped_marlin",
+      "swordfish"
+    ],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "tailor",
+    "nameEN": "Tailor",
+    "nameKR": null,
+    "scientificName": "Pomatomus saltatrix",
+    "family": "Pomatomidae",
+    "category": "Other Fish",
+    "searchTags": [
+      "tailor",
+      "bluefish",
+      "chopper",
+      "테일러"
+    ],
+    "sources": [
+      "dpi"
+    ],
+    "relatedSpecies": [],
+    "nameKR_source": null
+  },
+  {
+    "id": "teraglin",
+    "nameEN": "Teraglin",
+    "nameKR": null,
+    "scientificName": "Atractoscion aequidens",
+    "family": "Sciaenidae",
+    "category": "Other Fish",
+    "searchTags": [
+      "teraglin",
+      "trag",
+      "테라글린"
+    ],
+    "sources": [
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "mulloway"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "wahoo",
+    "nameEN": "Wahoo",
+    "nameKR": "꼬치삼치",
+    "scientificName": "Acanthocybium solandri",
+    "family": "Scombridae",
+    "category": "Other Fish",
+    "searchTags": [
+      "wahoo",
+      "와후",
+      "오노",
+      "オノ",
+      "꼬치삼치"
+    ],
+    "sources": [
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "spanish_mackerel"
+    ],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "grey_morwong",
+    "nameEN": "Grey Morwong",
+    "nameKR": null,
+    "scientificName": "Nemadactylus douglasii",
+    "family": "Cheilodactylidae",
+    "category": "Other Fish",
+    "searchTags": [
+      "grey morwong",
+      "rubber lip",
+      "morwong",
+      "모웡"
+    ],
+    "sources": [
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "red_morwong",
+      "banded_morwong",
+      "jackass_morwong"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "red_morwong",
+    "nameEN": "Red Morwong",
+    "nameKR": null,
+    "scientificName": "Cheilodactylus fuscus",
+    "family": "Cheilodactylidae",
+    "category": "Other Fish",
+    "searchTags": [
+      "red morwong",
+      "morwong"
+    ],
+    "sources": [
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "grey_morwong",
+      "banded_morwong"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "banded_morwong",
+    "nameEN": "Banded Morwong",
+    "nameKR": null,
+    "scientificName": "Cheilodactylus spectabilis",
+    "family": "Cheilodactylidae",
+    "category": "Other Fish",
+    "searchTags": [
+      "banded morwong",
+      "morwong",
+      "red moki"
+    ],
+    "sources": [
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "grey_morwong",
+      "red_morwong"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "jackass_morwong",
+    "nameEN": "Jackass Morwong",
+    "nameKR": null,
+    "scientificName": "Nemadactylus macropterus",
+    "family": "Cheilodactylidae",
+    "category": "Other Fish",
+    "searchTags": [
+      "jackass morwong",
+      "morwong"
+    ],
+    "sources": [
+      "dpi"
+    ],
+    "relatedSpecies": [
+      "grey_morwong"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "hairtail",
+    "nameEN": "Hairtail",
+    "nameKR": "갈치",
+    "scientificName": "Trichiurus lepturus",
+    "family": "Trichiuridae",
+    "category": "Other Fish",
+    "searchTags": [
+      "hairtail",
+      "cutlassfish",
+      "ribbonfish",
+      "갈치",
+      "은갈치",
+      "제주갈치",
+      "순살갈치",
+      "타치우오",
+      "タチウオ",
+      "太刀魚",
+      "칼치"
+    ],
+    "sources": [
+      "dpi",
+      "kurly",
+      "emart",
+      "tpirates"
+    ],
+    "relatedSpecies": [],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "flathead_sole",
+    "nameEN": "Flathead Sole / Righteye Flounder",
+    "nameKR": null,
+    "scientificName": "Pleuronectidae spp.",
+    "family": "Pleuronectidae",
+    "category": "Flatfish",
+    "searchTags": [
+      "flathead sole",
+      "가자미",
+      "참가자미",
+      "백가자미",
+      "각시가자미",
+      "첨치가자미",
+      "알배기가자미",
+      "카레이",
+      "カレイ",
+      "鰈",
+      "halibut"
+    ],
+    "sources": [
+      "kurly",
+      "emart",
+      "tpirates"
+    ],
+    "relatedSpecies": [
+      "flounder",
+      "sole"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "alaska_pollock",
+    "nameEN": "Alaska Pollock",
+    "nameKR": "명태",
+    "scientificName": "Gadus chalcogrammus",
+    "family": "Gadidae",
+    "category": "Cods",
+    "searchTags": [
+      "alaska pollock",
+      "pollock",
+      "명태",
+      "동태",
+      "황태",
+      "북어",
+      "코다리",
+      "명란",
+      "스케토우다라",
+      "スケトウダラ",
+      "생태",
+      "노가리"
+    ],
+    "sources": [
+      "kurly",
+      "emart"
+    ],
+    "relatedSpecies": [
+      "pacific_cod"
+    ],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "pacific_cod",
+    "nameEN": "Pacific Cod",
+    "nameKR": "대구",
+    "scientificName": "Gadus macrocephalus",
+    "family": "Gadidae",
+    "category": "Cods",
+    "searchTags": [
+      "pacific cod",
+      "cod",
+      "대구",
+      "대구살",
+      "대구알",
+      "대구곤이",
+      "대구탕",
+      "타라",
+      "タラ",
+      "鱈",
+      "민대구"
+    ],
+    "sources": [
+      "kurly",
+      "emart"
+    ],
+    "relatedSpecies": [
+      "alaska_pollock",
+      "patagonian_toothfish"
+    ],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "patagonian_toothfish",
+    "nameEN": "Patagonian Toothfish",
+    "nameKR": null,
+    "scientificName": "Dissostichus eleginoides",
+    "family": "Nototheniidae",
+    "category": "Other Fish",
+    "searchTags": [
+      "patagonian toothfish",
+      "chilean seabass",
+      "toothfish",
+      "메로",
+      "은대구",
+      "메로스테이크",
+      "mero"
+    ],
+    "sources": [
+      "kurly",
+      "emart",
+      "tpirates"
+    ],
+    "relatedSpecies": [],
+    "nameKR_source": null
+  },
+  {
+    "id": "red_sea_bream",
+    "nameEN": "Red Sea Bream",
+    "nameKR": "참돔",
+    "scientificName": "Pagrus major",
+    "family": "Sparidae",
+    "category": "Breams",
+    "searchTags": [
+      "red sea bream",
+      "tai",
+      "참돔",
+      "도미",
+      "타이",
+      "鯛",
+      "マダイ",
+      "마다이"
+    ],
+    "sources": [
+      "kurly",
+      "emart"
+    ],
+    "relatedSpecies": [
+      "snapper"
+    ],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "freshwater_eel",
+    "nameEN": "Freshwater Eel",
+    "nameKR": "뱀장어",
+    "scientificName": "Anguilla japonica",
+    "family": "Anguillidae",
+    "category": "Eels",
+    "searchTags": [
+      "freshwater eel",
+      "eel",
+      "민물장어",
+      "장어",
+      "풍천장어",
+      "자포니카장어",
+      "우나기",
+      "ウナギ",
+      "鰻",
+      "양념장어",
+      "장어구이",
+      "뱀장어"
+    ],
+    "sources": [
+      "dpi",
+      "kurly",
+      "emart",
+      "tpirates"
+    ],
+    "relatedSpecies": [
+      "conger_eel"
+    ],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "conger_eel",
+    "nameEN": "Conger Eel",
+    "nameKR": null,
+    "scientificName": "Conger myriaster",
+    "family": "Congridae",
+    "category": "Eels",
+    "searchTags": [
+      "conger eel",
+      "sea eel",
+      "붕장어",
+      "바다장어",
+      "아나고",
+      "アナゴ",
+      "穴子",
+      "검붕장어"
+    ],
+    "sources": [
+      "kurly",
+      "emart",
+      "tpirates",
+      "umall"
+    ],
+    "relatedSpecies": [
+      "freshwater_eel"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "olive_flounder",
+    "nameEN": "Olive Flounder",
+    "nameKR": "넙치",
+    "scientificName": "Paralichthys olivaceus",
+    "family": "Paralichthyidae",
+    "category": "Flatfish",
+    "searchTags": [
+      "olive flounder",
+      "bastard halibut",
+      "광어",
+      "광어회",
+      "넙치",
+      "히라메",
+      "ヒラメ",
+      "平目"
+    ],
+    "sources": [
+      "kurly",
+      "emart",
+      "tpirates"
+    ],
+    "relatedSpecies": [
+      "flounder"
+    ],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "yellowtail_amberjack",
+    "nameEN": "Yellowtail / Japanese Amberjack",
+    "nameKR": "방어",
+    "scientificName": "Seriola quinqueradiata",
+    "family": "Carangidae",
+    "category": "Trevallies",
+    "searchTags": [
+      "yellowtail",
+      "japanese amberjack",
+      "hamachi",
+      "방어",
+      "하마치",
+      "ハマチ",
+      "부리",
+      "ブリ",
+      "방어회"
+    ],
+    "sources": [
+      "tpirates"
+    ],
+    "relatedSpecies": [
+      "yellowtail_kingfish",
+      "amberjack"
+    ],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "skate",
+    "nameEN": "Skate / Ray",
+    "nameKR": null,
+    "scientificName": "Raja spp.",
+    "family": "Rajidae",
+    "category": "Rays",
+    "searchTags": [
+      "skate",
+      "ray",
+      "홍어",
+      "숙성홍어",
+      "삭힌홍어",
+      "흑산도홍어",
+      "홍어삼합",
+      "홍어회",
+      "가오리",
+      "에이",
+      "エイ"
+    ],
+    "sources": [
+      "emart",
+      "tpirates"
+    ],
+    "relatedSpecies": [
+      "eastern_shovelnose_ray"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "sea_squirt",
+    "nameEN": "Sea Squirt",
+    "nameKR": null,
+    "scientificName": "Halocynthia roretzi",
+    "family": "Pyuridae",
+    "category": "Other Seafood",
+    "searchTags": [
+      "sea squirt",
+      "sea pineapple",
+      "멍게",
+      "돌멍게",
+      "우렁쉥이",
+      "피멍게",
+      "호야",
+      "ホヤ"
+    ],
+    "sources": [
+      "emart",
+      "kurly",
+      "tpirates"
+    ],
+    "relatedSpecies": [],
+    "nameKR_source": null
+  },
+  {
+    "id": "webfoot_octopus",
+    "nameEN": "Webfoot Octopus",
+    "nameKR": null,
+    "scientificName": "Amphioctopus fangsiao",
+    "family": "Octopodidae",
+    "category": "Cephalopods",
+    "searchTags": [
+      "webfoot octopus",
+      "baby octopus",
+      "주꾸미",
+      "쭈꾸미",
+      "쥬꾸미",
+      "タコ"
+    ],
+    "sources": [
+      "emart",
+      "kurly"
+    ],
+    "relatedSpecies": [
+      "octopus",
+      "nakji"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "nakji",
+    "nameEN": "Long Arm Octopus",
+    "nameKR": null,
+    "scientificName": "Octopus minor",
+    "family": "Octopodidae",
+    "category": "Cephalopods",
+    "searchTags": [
+      "long arm octopus",
+      "nakji",
+      "낙지",
+      "산낙지",
+      "세발낙지",
+      "호롱낙지"
+    ],
+    "sources": [
+      "kurly",
+      "tpirates"
+    ],
+    "relatedSpecies": [
+      "octopus",
+      "webfoot_octopus"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "yellow_croaker",
+    "nameEN": "Yellow Croaker",
+    "nameKR": "참조기",
+    "scientificName": "Larimichthys polyactis",
+    "family": "Sciaenidae",
+    "category": "Other Fish",
+    "searchTags": [
+      "yellow croaker",
+      "croaker",
+      "조기",
+      "참조기",
+      "굴비",
+      "법성포굴비",
+      "영광굴비",
+      "백조기",
+      "부세",
+      "이시모치",
+      "イシモチ",
+      "黃花魚"
+    ],
+    "sources": [
+      "emart",
+      "kurly",
+      "tpirates"
+    ],
+    "relatedSpecies": [
+      "mulloway"
+    ],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "atka_mackerel",
+    "nameEN": "Atka Mackerel",
+    "nameKR": "임연수어",
+    "scientificName": "Pleurogrammus azonus",
+    "family": "Hexagrammidae",
+    "category": "Other Fish",
+    "searchTags": [
+      "atka mackerel",
+      "임연수",
+      "임연수어",
+      "호케",
+      "ホッケ",
+      "순살임연수"
+    ],
+    "sources": [
+      "kurly",
+      "emart"
+    ],
+    "relatedSpecies": [],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "monkfish",
+    "nameEN": "Monkfish",
+    "nameKR": "황아귀",
+    "scientificName": "Lophius litulon",
+    "family": "Lophiidae",
+    "category": "Other Fish",
+    "searchTags": [
+      "monkfish",
+      "anglerfish",
+      "goosefish",
+      "아귀",
+      "안키모",
+      "아구",
+      "아귀찜",
+      "아귀탕",
+      "아귀간",
+      "앙코우",
+      "アンコウ",
+      "황아귀"
+    ],
+    "sources": [
+      "kurly",
+      "emart",
+      "tpirates"
+    ],
+    "relatedSpecies": [],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "pacific_saury",
+    "nameEN": "Pacific Saury",
+    "nameKR": "꽁치",
+    "scientificName": "Cololabis saira",
+    "family": "Scomberesocidae",
+    "category": "Other Fish",
+    "searchTags": [
+      "pacific saury",
+      "saury",
+      "꽁치",
+      "산마",
+      "サンマ",
+      "秋刀魚"
+    ],
+    "sources": [
+      "emart"
+    ],
+    "relatedSpecies": [],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "herring",
+    "nameEN": "Herring",
+    "nameKR": "청어",
+    "scientificName": "Clupea pallasii",
+    "family": "Clupeidae",
+    "category": "Other Fish",
+    "searchTags": [
+      "herring",
+      "청어",
+      "과메기",
+      "니신",
+      "ニシン"
+    ],
+    "sources": [
+      "emart",
+      "kurly",
+      "tpirates"
+    ],
+    "relatedSpecies": [
+      "sardine"
+    ],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "sardine",
+    "nameEN": "Sardine",
+    "nameKR": "정어리",
+    "scientificName": "Sardinops sagax",
+    "family": "Clupeidae",
+    "category": "Other Fish",
+    "searchTags": [
+      "sardine",
+      "pilchard",
+      "정어리",
+      "이와시",
+      "イワシ",
+      "멸치"
+    ],
+    "sources": [
+      "umall"
+    ],
+    "relatedSpecies": [
+      "herring",
+      "anchovy"
+    ],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "anchovy",
+    "nameEN": "Anchovy",
+    "nameKR": "멸치",
+    "scientificName": "Engraulis japonicus",
+    "family": "Engraulidae",
+    "category": "Other Fish",
+    "searchTags": [
+      "anchovy",
+      "멸치",
+      "대멸",
+      "중멸",
+      "세멸",
+      "생멸치",
+      "다시멸치",
+      "볶음멸치",
+      "까나리",
+      "katakuchi iwashi"
+    ],
+    "sources": [
+      "tpirates"
+    ],
+    "relatedSpecies": [
+      "sardine"
+    ],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "rockfish",
+    "nameEN": "Rockfish",
+    "nameKR": null,
+    "scientificName": "Sebastes spp.",
+    "family": "Sebastidae",
+    "category": "Other Fish",
+    "searchTags": [
+      "rockfish",
+      "볼락",
+      "장문볼락",
+      "우럭",
+      "적어",
+      "조피볼락",
+      "메바루",
+      "メバル",
+      "개볼락",
+      "노랑볼락",
+      "누루시볼락",
+      "눌치볼락",
+      "도화볼락",
+      "돌삼뱅이",
+      "띠볼락",
+      "말락볼락",
+      "불볼락",
+      "세줄볼락",
+      "우럭볼락",
+      "좀볼락",
+      "탁자볼락",
+      "황볼락",
+      "황점볼락",
+      "황해볼락",
+      "흰꼬리볼락"
+    ],
+    "sources": [
+      "kurly",
+      "emart",
+      "tpirates"
+    ],
+    "relatedSpecies": [],
+    "nameKR_source": null
+  },
+  {
+    "id": "sea_bass",
+    "nameEN": "Sea Bass",
+    "nameKR": "농어",
+    "scientificName": "Lateolabrax japonicus",
+    "family": "Lateolabracidae",
+    "category": "Other Fish",
+    "searchTags": [
+      "sea bass",
+      "bass",
+      "농어",
+      "스즈키",
+      "スズキ",
+      "점농어"
+    ],
+    "sources": [],
+    "relatedSpecies": [
+      "barramundi"
+    ],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "tilapia",
+    "nameEN": "Tilapia",
+    "nameKR": "나일틸라피아",
+    "scientificName": "Oreochromis niloticus",
+    "family": "Cichlidae",
+    "category": "Freshwater Fish",
+    "searchTags": [
+      "tilapia",
+      "틸라피아",
+      "역돔",
+      "나일틸라피아"
+    ],
+    "sources": [
+      "emart",
+      "umall",
+      "kurly"
+    ],
+    "relatedSpecies": [],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "snakehead",
+    "nameEN": "Snakehead",
+    "nameKR": null,
+    "scientificName": "Channa spp.",
+    "family": "Channidae",
+    "category": "Freshwater Fish",
+    "searchTags": [
+      "snakehead",
+      "snakehead fish",
+      "가물치",
+      "black fish"
+    ],
+    "sources": [
+      "umall"
+    ],
+    "relatedSpecies": [],
+    "nameKR_source": null
+  },
+  {
+    "id": "catfish",
+    "nameEN": "Catfish",
+    "nameKR": null,
+    "scientificName": "Siluriformes spp.",
+    "family": "Various",
+    "category": "Freshwater Fish",
+    "searchTags": [
+      "catfish",
+      "basa",
+      "메기",
+      "바사",
+      "white catfish"
+    ],
+    "sources": [
+      "dpi",
+      "umall"
+    ],
+    "relatedSpecies": [],
+    "nameKR_source": null
+  },
+  {
+    "id": "milkfish",
+    "nameEN": "Milkfish",
+    "nameKR": "갯농어",
+    "scientificName": "Chanos chanos",
+    "family": "Chanidae",
+    "category": "Other Fish",
+    "searchTags": [
+      "milkfish",
+      "bangus",
+      "밀크피시",
+      "갯농어"
+    ],
+    "sources": [
+      "umall"
+    ],
+    "relatedSpecies": [],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "flying_fish_roe",
+    "nameEN": "Flying Fish Roe",
+    "nameKR": null,
+    "scientificName": "Exocoetidae spp.",
+    "family": "Exocoetidae",
+    "category": "Roe",
+    "searchTags": [
+      "flying fish roe",
+      "tobiko",
+      "날치알",
+      "토비코",
+      "トビコ",
+      "とびこ",
+      "날치"
+    ],
+    "sources": [
+      "emart",
+      "tpirates"
+    ],
+    "relatedSpecies": [],
+    "nameKR_source": null
+  },
+  {
+    "id": "pollock_roe",
+    "nameEN": "Pollock Roe",
+    "nameKR": "명태",
+    "scientificName": "Gadus chalcogrammus",
+    "family": "Gadidae",
+    "category": "Roe",
+    "searchTags": [
+      "pollock roe",
+      "mentaiko",
+      "명란",
+      "명란젓",
+      "멘타이코",
+      "めんたいこ",
+      "타라코",
+      "たらこ",
+      "백명란",
+      "명태"
+    ],
+    "sources": [
+      "emart",
+      "kurly"
+    ],
+    "relatedSpecies": [
+      "alaska_pollock"
+    ],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "salmon_roe",
+    "nameEN": "Salmon Roe",
+    "nameKR": null,
+    "scientificName": "Salmo salar",
+    "family": "Salmonidae",
+    "category": "Roe",
+    "searchTags": [
+      "salmon roe",
+      "ikura",
+      "연어알",
+      "이쿠라",
+      "イクラ"
+    ],
+    "sources": [
+      "tpirates"
+    ],
+    "relatedSpecies": [
+      "atlantic_salmon"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "caviar",
+    "nameEN": "Caviar",
+    "nameKR": null,
+    "scientificName": "Acipenser spp.",
+    "family": "Acipenseridae",
+    "category": "Roe",
+    "searchTags": [
+      "caviar",
+      "sturgeon",
+      "캐비어",
+      "철갑상어알",
+      "오세트라",
+      "용상어",
+      "철갑상어",
+      "칼상어"
+    ],
+    "sources": [
+      "tpirates"
+    ],
+    "relatedSpecies": [],
+    "nameKR_source": null
+  },
+  {
+    "id": "tile_fish",
+    "nameEN": "Tilefish",
+    "nameKR": "옥돔",
+    "scientificName": "Branchiostegus japonicus",
+    "family": "Malacanthidae",
+    "category": "Other Fish",
+    "searchTags": [
+      "tilefish",
+      "amadai",
+      "옥돔",
+      "제주옥돔",
+      "아마다이",
+      "アマダイ",
+      "甘鯛"
+    ],
+    "sources": [
+      "kurly",
+      "emart",
+      "tpirates"
+    ],
+    "relatedSpecies": [],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "croaker",
+    "nameEN": "Croaker / Jewfish",
+    "nameKR": "민어",
+    "scientificName": "Miichthys miiuy",
+    "family": "Sciaenidae",
+    "category": "Other Fish",
+    "searchTags": [
+      "croaker",
+      "jewfish",
+      "민어",
+      "민어전감",
+      "민어포",
+      "반건조민어"
+    ],
+    "sources": [
+      "emart",
+      "kurly",
+      "tpirates"
+    ],
+    "relatedSpecies": [
+      "yellow_croaker",
+      "mulloway"
+    ],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "capelin",
+    "nameEN": "Capelin",
+    "nameKR": "열빙어",
+    "scientificName": "Mallotus villosus",
+    "family": "Osmeridae",
+    "category": "Other Fish",
+    "searchTags": [
+      "capelin",
+      "shishamo",
+      "열빙어",
+      "시사모",
+      "시샤모",
+      "シシャモ"
+    ],
+    "sources": [
+      "emart",
+      "kurly",
+      "tpirates"
+    ],
+    "relatedSpecies": [],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "sea_cucumber",
+    "nameEN": "Sea Cucumber",
+    "nameKR": null,
+    "scientificName": "Holothuroidea spp.",
+    "family": "Various",
+    "category": "Other Seafood",
+    "searchTags": [
+      "sea cucumber",
+      "해삼",
+      "나마코",
+      "ナマコ",
+      "海参"
+    ],
+    "sources": [],
+    "relatedSpecies": [],
+    "nameKR_source": null
+  },
+  {
+    "id": "key_mussel",
+    "nameEN": "Pen Shell / Key Mussel",
+    "nameKR": null,
+    "scientificName": "Atrina pectinata",
+    "family": "Pinnidae",
+    "category": "Shellfish",
+    "searchTags": [
+      "pen shell",
+      "키조개",
+      "키조개관자",
+      "타이라기",
+      "タイラギ"
+    ],
+    "sources": [
+      "emart",
+      "tpirates"
+    ],
+    "relatedSpecies": [
+      "commercial_scallop"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "razor_clam",
+    "nameEN": "Razor Clam",
+    "nameKR": null,
+    "scientificName": "Solen strictus",
+    "family": "Solenidae",
+    "category": "Clams & Cockles",
+    "searchTags": [
+      "razor clam",
+      "맛조개",
+      "가리맛조개",
+      "마테가이",
+      "マテガイ"
+    ],
+    "sources": [
+      "tpirates"
+    ],
+    "relatedSpecies": [
+      "vongole"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "whelk",
+    "nameEN": "Whelk",
+    "nameKR": null,
+    "scientificName": "Buccinum spp.",
+    "family": "Buccinidae",
+    "category": "Sea Snails",
+    "searchTags": [
+      "whelk",
+      "골뱅이",
+      "백골뱅이",
+      "백고동",
+      "통골뱅이",
+      "쓰부가이",
+      "ツブ貝"
+    ],
+    "sources": [
+      "kurly",
+      "tpirates"
+    ],
+    "relatedSpecies": [
+      "trochus"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "mitre_shell_clam",
+    "nameEN": "Ark Shell / Blood Clam",
+    "nameKR": null,
+    "scientificName": "Fulvia mutica",
+    "family": "Cardiidae",
+    "category": "Clams & Cockles",
+    "searchTags": [
+      "ark shell",
+      "새조개",
+      "torigai",
+      "トリガイ"
+    ],
+    "sources": [
+      "emart",
+      "tpirates"
+    ],
+    "relatedSpecies": [
+      "cockle"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "soft_shell_crab",
+    "nameEN": "Soft Shell Crab",
+    "nameKR": null,
+    "scientificName": "Various",
+    "family": "Various",
+    "category": "Crabs",
+    "searchTags": [
+      "soft shell crab",
+      "소프트셸크랩",
+      "꽃게탈피"
+    ],
+    "sources": [
+      "umall"
+    ],
+    "relatedSpecies": [
+      "blue_swimmer_crab"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "crawfish",
+    "nameEN": "Crawfish / Crayfish",
+    "nameKR": null,
+    "scientificName": "Procambarus clarkii",
+    "family": "Cambaridae",
+    "category": "Freshwater Crayfish",
+    "searchTags": [
+      "crawfish",
+      "crayfish",
+      "가재",
+      "마라룽샤",
+      "小龙虾",
+      "마라가재"
+    ],
+    "sources": [
+      "umall"
+    ],
+    "relatedSpecies": [
+      "yabby"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "sweet_shrimp",
+    "nameEN": "Sweet Shrimp",
+    "nameKR": null,
+    "scientificName": "Pandalus borealis",
+    "family": "Pandalidae",
+    "category": "Prawns",
+    "searchTags": [
+      "sweet shrimp",
+      "amaebi",
+      "단새우",
+      "아마에비",
+      "甘海老",
+      "アマエビ"
+    ],
+    "sources": [
+      "tpirates"
+    ],
+    "relatedSpecies": [
+      "botan_shrimp"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "botan_shrimp",
+    "nameEN": "Botan Shrimp",
+    "nameKR": null,
+    "scientificName": "Pandalus nipponensis",
+    "family": "Pandalidae",
+    "category": "Prawns",
+    "searchTags": [
+      "botan shrimp",
+      "spot prawn",
+      "딱새우",
+      "보탄새우",
+      "ボタンエビ",
+      "牡丹海老",
+      "달마새우"
+    ],
+    "sources": [
+      "tpirates"
+    ],
+    "relatedSpecies": [
+      "sweet_shrimp"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "frigate_tuna",
+    "nameEN": "Frigate Tuna",
+    "nameKR": "물치다래",
+    "scientificName": "Auxis thazard",
+    "family": "Scombridae",
+    "category": "Tunas",
+    "searchTags": [
+      "frigate tuna",
+      "frigate mackerel",
+      "물치다래"
+    ],
+    "sources": [
+      "umall"
+    ],
+    "relatedSpecies": [
+      "bonito",
+      "albacore"
+    ],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "indian_mackerel",
+    "nameEN": "Indian Mackerel",
+    "nameKR": null,
+    "scientificName": "Rastrelliger kanagurta",
+    "family": "Scombridae",
+    "category": "Mackerels",
+    "searchTags": [
+      "indian mackerel",
+      "bangda",
+      "ikan kembung"
+    ],
+    "sources": [
+      "umall"
+    ],
+    "relatedSpecies": [
+      "blue_mackerel"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "brown_crab",
+    "nameEN": "Brown Crab",
+    "nameKR": null,
+    "scientificName": "Cancer pagurus",
+    "family": "Cancridae",
+    "category": "Crabs",
+    "searchTags": [
+      "brown crab",
+      "브라운크랩"
+    ],
+    "sources": [
+      "umall"
+    ],
+    "relatedSpecies": [
+      "blue_swimmer_crab"
+    ],
+    "nameKR_source": null
+  },
+  {
+    "id": "red_sea_bream_family",
+    "nameEN": "Flower Bream",
+    "nameKR": "붉돔",
+    "scientificName": "Evynnis tumifrons",
+    "family": "Sparidae",
+    "category": "Breams",
+    "searchTags": [
+      "flower bream",
+      "꽃돔",
+      "참꽃돔",
+      "붉돔",
+      "황돔"
+    ],
+    "sources": [
+      "kurly"
+    ],
+    "relatedSpecies": [
+      "snapper",
+      "red_sea_bream"
+    ],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "golden_threadfin_bream",
+    "nameEN": "Golden Threadfin Bream",
+    "nameKR": "실꼬리돔",
+    "scientificName": "Nemipterus virgatus",
+    "family": "Nemipteridae",
+    "category": "Other Fish",
+    "searchTags": [
+      "golden threadfin",
+      "금태",
+      "실꼬리돔"
+    ],
+    "sources": [
+      "kurly"
+    ],
+    "relatedSpecies": [],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "yellow_sea_bream",
+    "nameEN": "Yellowback Seabream",
+    "nameKR": "양미리",
+    "scientificName": "Hypoptychus dybowskii",
+    "family": "Hypoptychidae",
+    "category": "Other Fish",
+    "searchTags": [
+      "sandeel",
+      "양미리"
+    ],
+    "sources": [
+      "kurly"
+    ],
+    "relatedSpecies": [],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "filefish",
+    "nameEN": "Filefish",
+    "nameKR": "말쥐치",
+    "scientificName": "Thamnaconus modestus",
+    "family": "Monacanthidae",
+    "category": "Leatherjackets",
+    "searchTags": [
+      "filefish",
+      "쥐치",
+      "쥐포",
+      "쥐치포",
+      "말쥐치"
+    ],
+    "sources": [
+      "tpirates"
+    ],
+    "relatedSpecies": [
+      "ocean_jacket"
+    ],
+    "nameKR_source": "fishbase_exact"
+  },
+  {
+    "id": "jellyfish",
+    "nameEN": "Jellyfish",
+    "nameKR": null,
+    "scientificName": "Rhopilema esculentum",
+    "family": "Rhizostomatidae",
+    "category": "Other Seafood",
+    "searchTags": [
+      "jellyfish",
+      "해파리",
+      "레몬쿠라게",
+      "kurage",
+      "クラゲ"
+    ],
+    "sources": [
+      "tpirates"
+    ],
+    "relatedSpecies": [],
+    "nameKR_source": null
+  },
+  {
+    "id": "limpet",
+    "nameEN": "Limpet",
+    "nameKR": null,
+    "scientificName": "Various",
+    "family": "Patellidae",
+    "category": "Sea Snails",
+    "searchTags": [
+      "limpet",
+      "배말",
+      "삿갓조개",
+      "거북손"
+    ],
+    "sources": [
+      "tpirates"
+    ],
+    "relatedSpecies": [],
+    "nameKR_source": null
+  },
+  {
+    "id": "sea_lettuce",
+    "nameEN": "Sea Lettuce",
+    "nameKR": null,
+    "scientificName": "Capsosiphon fulvescens",
+    "family": "Ulvaceae",
+    "category": "Seaweed",
+    "searchTags": [
+      "sea lettuce",
+      "매생이",
+      "seaweed"
+    ],
+    "sources": [
+      "emart"
+    ],
+    "relatedSpecies": [],
+    "nameKR_source": null
+  },
+  {
+    "id": "kelp",
+    "nameEN": "Kelp / Sea Tangle",
+    "nameKR": null,
+    "scientificName": "Saccharina japonica",
+    "family": "Laminariaceae",
+    "category": "Seaweed",
+    "searchTags": [
+      "kelp",
+      "kombu",
+      "다시마",
+      "곤부",
+      "昆布",
+      "コンブ",
+      "sea tangle"
+    ],
+    "sources": [],
+    "relatedSpecies": [],
+    "nameKR_source": null
+  },
+  {
+    "id": "sea_mustard",
+    "nameEN": "Sea Mustard",
+    "nameKR": null,
+    "scientificName": "Undaria pinnatifida",
+    "family": "Alariaceae",
+    "category": "Seaweed",
+    "searchTags": [
+      "wakame",
+      "sea mustard",
+      "미역",
+      "와카메",
+      "ワカメ"
+    ],
+    "sources": [],
+    "relatedSpecies": [],
+    "nameKR_source": null
+  },
+  {
+    "id": "sea_grape",
+    "nameEN": "Sea Grape",
+    "nameKR": null,
+    "scientificName": "Caulerpa lentillifera",
+    "family": "Caulerpaceae",
+    "category": "Seaweed",
+    "searchTags": [
+      "sea grape",
+      "바다포도",
+      "우미부도",
+      "umibudo",
+      "海ぶどう"
+    ],
+    "sources": [
+      "tpirates"
+    ],
+    "relatedSpecies": [],
+    "nameKR_source": null
+  },
+  {
+    "id": "sea_pork",
+    "nameEN": "Sea Pork / Tunicate",
+    "nameKR": null,
+    "scientificName": "Styela clava",
+    "family": "Styelidae",
+    "category": "Other Seafood",
+    "searchTags": [
+      "sea pork",
+      "tunicate",
+      "미더덕",
+      "참미더덕",
+      "오만둥이"
+    ],
+    "sources": [
+      "emart",
+      "tpirates"
+    ],
+    "relatedSpecies": [
+      "sea_squirt"
+    ],
+    "nameKR_source": null
+  }
+]
